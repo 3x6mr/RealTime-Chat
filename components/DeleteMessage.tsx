@@ -118,7 +118,7 @@ export function EditMessage() {
         <DialogHeader>
           <DialogTitle>Edit Message</DialogTitle>
           <DialogDescription>
-            Make changes to your profile here. Click save when you're done.
+            Make changes to your profile here. Click save when you are done.
           </DialogDescription>
         </DialogHeader>
 
